@@ -4,6 +4,14 @@
 I program. Too much some would say. It's better than video games or tv, so what else is a poor nerd to do.
 I use linux too but don't worry I'm no zealot. I think.
 
+<button onclick="window.open('https://www.linkedin.com/in/jake-trock')"><img src="https://cleanconnect.us/images/linkedin.png"><br>LinkedIn</button>
+<button onclick="window.open('https://github.com/jaketrock')"><img src="https://cleanconnect.us/images/git.png"><br>GitHub</button>
+<button onclick="window.open('mailto:jtrock@cleanconnect.us')"><img src="https://cleanconnect.us/images/mail.png"><br>Email</button>
+
+<a href="https://github.com/James-Riordan/James-Riordan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaketrock&hide=vue,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
+
 Here's my public key, because of course:
 
 ```
