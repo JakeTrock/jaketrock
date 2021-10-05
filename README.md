@@ -7,15 +7,15 @@ I use linux too but don't worry I'm no zealot. I think.
 <a href="https://www.linkedin.com/in/jake-trock"><img src="https://cleanconnect.us/images/linkedin.png">LinkedIn</a>
 <a href="https://github.com/jaketrock"><img src="https://cleanconnect.us/images/git.png">GitHub</a>
 <a href="mailto:jtrock@cleanconnect.us"><img src="https://cleanconnect.us/images/mail.png">Email</a>
-</div>
+
 
 <a href="https://github.com/James-Riordan/James-Riordan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaketrock&hide=vue,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
-
+</div>
 Here's my public key, because of course:
 
-```
+<textarea style="overflow:scroll">
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGFSLqABEACwOtHOpwByyIgf2E1lBTcQRK9Ci2eLtMkOjyqEzK+PtGqvpRKw
@@ -520,6 +520,6 @@ AlyUvzyRJ5Y78KsxVT6OnKXXGA8/IGM/TY66wA1Y/elzBQIXmDjE9P41RSMSU9NN
 tM5c8ur8t470UAJ+QA==
 =4Kgk
 -----END PGP PUBLIC KEY BLOCK-----
-```
+</textarea>
 
 yowza that's a big key
