@@ -18,7 +18,6 @@ I use linux too but don't worry I'm no zealot. I think.
 
 <details>
   <summary>Click to reveal my public key</summary>
-```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGFSLqABEACwOtHOpwByyIgf2E1lBTcQRK9Ci2eLtMkOjyqEzK+PtGqvpRKw
@@ -523,5 +522,4 @@ AlyUvzyRJ5Y78KsxVT6OnKXXGA8/IGM/TY66wA1Y/elzBQIXmDjE9P41RSMSU9NN
 tM5c8ur8t470UAJ+QA==
 =4Kgk
 -----END PGP PUBLIC KEY BLOCK-----
-  ```
   </details>
