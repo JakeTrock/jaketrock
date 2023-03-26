@@ -4,8 +4,8 @@
 I program. Too much some would say. It's better than video games or tv, so what else is a poor nerd to do.
 I use linux too but don't worry I'm no zealot. I think.
 <div align="center">
-<a href="https://www.linkedin.com/in/jake-trock">LinkedIn</a>
-<a href="https://github.com/jaketrock">GitHub</a>
+<a href="https://www.linkedin.com/in/jake-trock">LinkedIn</a> | 
+<a href="https://github.com/jaketrock">GitHub</a> |
 <a href="mailto:jtrock@cleanconnect.us">Email</a>
 
   <br>
